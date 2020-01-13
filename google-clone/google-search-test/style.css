@@ -1,0 +1,24 @@
+#google-form {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+input {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: hidden;
+    background: white;
+}
+
+#google-search {
+    background-color:lightgoldenrodyellow;
+}
+
+#google-search:focus {
+    outline: none;
+}
