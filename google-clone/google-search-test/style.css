@@ -1,3 +1,32 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    display: block;
+    padding: 10px 8px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.navbar-right {
+    float: right;
+}
+
+#google-apps {
+    position: relative;
+    top: -3px;
+}
+
+#google-login {
+    position: relative;
+    top: -10px;
+}
+
 #google-form {
     margin: 0;
     position: absolute;
