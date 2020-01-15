@@ -74,3 +74,17 @@ input {
 .google-microphone {
     transform: translate(40%, 40%);
 }
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px 8px;
+}
+
+.footer-right {
+    float: right;
+    padding-right: 25px;
+}
