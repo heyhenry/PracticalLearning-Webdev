@@ -3,7 +3,6 @@
     position: absolute;
     top: 50%;
     left: 50%;
-    -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -100%);
 }
 
@@ -13,7 +12,6 @@
    /* background: green; */
    width: 400px;
    height: 45px;
-   -ms-transform: translate(-50%, -50%);
    transform: translate(-12%, 15%);
 }
 
@@ -23,7 +21,6 @@
 }
 
 #google-search {
-    -ms-transform: translate(-50%, -50%);
     transform: translate(5%, 10%);
     width: 80%;
     font-size: 14pt;
@@ -46,6 +43,5 @@ input {
 }
 
 .google-microphone {
-    -ms-transform: translate(-50%, -50%);
     transform: translate(40%, 40%);
 }
