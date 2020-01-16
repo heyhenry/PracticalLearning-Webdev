@@ -42,14 +42,18 @@ li {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -100%);
+    transform: translate(-40%, -180%);
+}
+
+.google-title {
+    transform: translate(8%, -10%);
 }
 
 #search-wrapper {
    border-radius: 25px;
-   border: 2px solid #D0DADA;
+   border: 1px solid #D0DADA;
    /* background: green; */
-   width: 400px;
+   width: 500px;
    height: 45px;
    transform: translate(-12%, 15%);
 }
